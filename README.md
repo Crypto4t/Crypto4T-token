@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="200"/>
+</p>
+
 # Crypto 4T (4T)
 
 Crypto 4T is a community-driven cryptocurrency deployed on the Binance Smart Chain (BSC).
